@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hututunb&show_icons=true&theme=synthwave" alt="HPUhushicheng的GitHub数据" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hututunb&show_icons=true&theme=synthwave" alt="hututunb的GitHub数据" /></p>
